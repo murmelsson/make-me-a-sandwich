@@ -7,6 +7,6 @@ Use the file make-me-a-sandwich.sh
   - use the example config suggested at the end of the script...
     - to create alias command and 
     - to run it using sudo
-    - (or, use your own config solution, e.g. for bash config)
+    [or if you like, use your own config solution, e.g. for bash config]
 
 The demo video shows this script+config solution working. 
